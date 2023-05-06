@@ -17,4 +17,4 @@ This project aims to perform topic modeling on a Kaggle dataset "YouTuber's Sayi
 
 ## Conclusion
 
-This project is aimed at analyzing the Kaggle dataset "YouTuber's Saying Things" and extracting useful insights from it using topic modeling. By performing the above-mentioned methodology, we can visualize the topics of the data and analyze the results to gain insights. Note that the results may not be entirely accurate due to the limitations of the dataset.
+This project is aimed at analyzing the Kaggle dataset "YouTuber's Saying Things" and extracting useful insights from it using topic modeling. By performing the above-mentioned methodology, we can visualize the topics of the data and analyze the results to gain insights. Note that the results were not entirely accurate due to the limitations of the dataset.
