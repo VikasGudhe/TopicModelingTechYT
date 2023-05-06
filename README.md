@@ -6,7 +6,7 @@ This project aims to perform topic modeling on a Kaggle dataset "YouTuber's Sayi
 
 ## Methodology
 
-1. Download the Kaggle dataset "YouTuber's Saying Things".
+1. Download the Kaggle dataset "YouTuber's Saying Things" (I've also provided the exact data I've used)
 2. Convert the CSV file into a pandas DataFrame for easier cleanup and filter it by "Tech, Tech,Comedy, Tech, Informative, and Tech,News".
 3. Combine all the Transcript values into one long string.
 4. Use NLTK to remove all "STOPWORDS" from the text to remove words that are not helpful in topic modeling.
